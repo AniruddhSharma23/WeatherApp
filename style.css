@@ -178,3 +178,11 @@ input[type="text"]::placeholder {
     opacity: 1;
   }
 }
+.ft {
+  color: white;
+  position: relative;
+  height: 5.5rem;
+  margin-top: 600px;
+  margin-left: 690px;
+  width: 150px;
+}
