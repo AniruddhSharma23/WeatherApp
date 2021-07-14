@@ -1,5 +1,5 @@
 # weather-app
-A weather app to check weather for a particular location.
-made using : API's, JS, CSS, HTML
-site use for api: https://www.weatherapi.com/
-Live preview: https://weather-app23.netlify.app/
+Created a responsive Web-App using JavaScript, Bootstrap, and WeatherApi
+Simplified Html DOM tree traversal, manipulation, and event handling using jQuery. 
+Implemented weather conditions such as current and “feels like” temperature in different units, wind speed, humidity, and climate of several locations.
+https://weather-app23.netlify.app/ 
